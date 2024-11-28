@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21796
-Fork on GitHub
-6940
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Harsh Katiyar</h1>
 <h3 align="center">I'm an Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Front End Developer | Coder | Youtuber</h3>
 
@@ -32,13 +16,12 @@ markdown
 - ⚡ Fun fact **No System Is Safe**
 
 ### Blogs posts
-# Blog Posts
 
-- [The Ultimate Beginner’s Guide to Web Penetration Testing](#)
-- [Understanding Ethical Hacking: The Key to Cybersecurity](#)
-- [Building a Modern Login & Registration Page: A Step-by-Step Guide](#)
-- [Understanding Web Application Attacks: A Comprehensive Guide](#)
-- [How to Start Your Hacking Journey and Choose the Right Role in Cybersecurity](#)
+- [The Ultimate Beginner’s Guide to Web Penetration Testing](https://medium.com/@harshkatiyar5556/the-ultimate-beginners-guide-to-web-penetration-testing-6abccc29d306)
+- [Understanding Ethical Hacking: The Key to Cybersecurity](https://medium.com/@harshkatiyar5556/understanding-ethical-hacking-the-key-to-cybersecurity-454c6671c5f9)
+- [Building a Modern Login & Registration Page: A Step-by-Step Guide](https://medium.com/@harshkatiyar5556/building-a-modern-login-registration-page-a-step-by-step-guide-d9e046f6e6fc)
+- [Understanding Web Application Attacks: A Comprehensive Guide](https://medium.com/@harshkatiyar5556/understanding-web-application-attacks-a-comprehensive-guide-b44b9d0bdfbf)
+- [How to Start Your Hacking Journey and Choose the Right Role in Cybersecurity](https://medium.com/@harshkatiyar5556/how-to-start-your-hacking-journey-and-choose-the-right-role-in-cybersecurity-9eff1ec5e7f2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,28 +38,3 @@ markdown
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-katiyar&show_icons=true&locale=en&layout=compact" alt="harsh-katiyar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-katiyar&show_icons=true&locale=en" alt="harsh-katiyar" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
