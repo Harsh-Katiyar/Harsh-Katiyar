@@ -24,32 +24,77 @@
 
 <div align="left">
 
-![Python](https://skillicons.dev/icons?i=py)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PHP](https://skillicons.dev/icons?i=php)
+<img src="https://skillicons.dev/icons?i=py" height="55" alt="Python" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=bash" height="55" alt="Bash" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=php" height="55" alt="PHP" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VSCode" />
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## 🛡️ Cybersecurity Skills
 
-* SIEM (Splunk, Microsoft Sentinel)
-* Threat Detection
-* Incident Response
+* SOC Operations
+* SIEM Monitoring
+* Splunk
+* Microsoft Sentinel
 * Log Analysis
+* Incident Response
+* Threat Detection
 * Threat Hunting
-* Wireshark
 * Vulnerability Assessment
-* MITRE ATT&CK
 * Network Security
-* Security Monitoring
+* Wireshark
+* Phishing Analysis
+* MITRE ATT&CK
 * OSINT & Reconnaissance
+* Security Monitoring
+* Windows Event Logs
+* Linux Security
+* Nmap
+* Kali Linux
+* TCP/IP
+* IDS/IPS Fundamentals
+* Security Automation
+* Blue Teaming
+
+---
+
+## 📜 Certifications & Learning
+
+* CEH (Certified Ethical Hacker) – In Progress
+* CCNA – In Progress
+* LetsDefend SOC Labs
+* Junior Cybersecurity Analyst Career Path
+* Incident Handler
+* Phishing Expert
+* Networking Devices & Initial Configuration
+* Accenture Data Analytics & Visualization Simulation
 
 ---
 
